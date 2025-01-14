@@ -1,4 +1,12 @@
-## Hi there 👋
+## Hi, I'm Diana👋
+
+- 🚀 I’m currently working as Frontend developer at [Vosyn](https://vosyn.ai/)
+- 🌱 I'm currently working with [Next.js](https://nextjs.org/) for building dynamic and performant web applications.
+- ⚡ I enjoy walking 🚶 and traveling ✈️!
+
+
+### 🤝 Open to Collaboration
+I'm open to collaborating on projects of all sizes, from small tasks to larger ideas. I welcome the opportunity to work together and learn from others.
 
 <!--
 **Diana1888/Diana1888** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -6,7 +14,7 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+-  I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
