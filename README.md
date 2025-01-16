@@ -3,6 +3,7 @@
 - 🚀 I’m currently working as Frontend developer at [Vosyn](https://vosyn.ai/)
 - 🌱 I'm currently working with [Next.js](https://nextjs.org/) for building dynamic and performant web applications.
 - ⚡ I enjoy walking 🚶 and traveling ✈️!
+- 🔗 Check out my [Portfolio](https://dianawebsite-portfolio.vercel.app/)
 
 
 ### 🤝 Open to Collaboration
