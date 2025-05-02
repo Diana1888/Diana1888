@@ -1,7 +1,7 @@
 ## Hi, I'm Diana👋
 
-- 🚀 I’m currently working as Frontend developer at [Vosyn](https://vosyn.ai/)
-- 🌱 I'm currently working with [Next.js](https://nextjs.org/) for building dynamic and performant web applications.
+- 🚀 I’m currently doing an internship as a Frontend Developer at [AL Tech Labs](https://altech.digital/)
+- 🌱 I'm currently working with React and Next.js to build dynamic, performant web applications, and learning to fetch data efficiently using RTK Query.
 - ⚡ I enjoy walking 🚶 and traveling ✈️!
 - 🔗 Check out my [Portfolio](https://dianawebsite-portfolio.vercel.app/)
 
